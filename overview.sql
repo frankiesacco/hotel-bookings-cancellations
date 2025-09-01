@@ -4,7 +4,7 @@ Query: Cancellation percentage by total bookings and hotel type
 Author: Frank Sacco
 Date: August 2025
 
-Description: These queries alculate the percentage of cancellations vs. non-cancellations out of all bookings, as well as calculate cancellation percentage by hotel type (Resort/City)
+Description: These queries calculate the percentage of cancellations vs. non-cancellations out of all bookings, as well as calculate cancellation percentage by hotel type (Resort/City)
 Business Goal: Determine which hotel type is more susceptible to cancellation
 */
 
