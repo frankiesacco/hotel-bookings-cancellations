@@ -1,6 +1,6 @@
 # Hotel Booking Cancellations Analysis
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes hotel booking data to uncover trends in cancellations. 
 High cancellation rates affect revenue and forecasting in the hospitality industry. 
 The goal is to identify factors that contribute to cancellations and provide data-driven recommendations.
@@ -11,33 +11,30 @@ Dataset: [Hotel Bookings Dataset](https://www.kaggle.com/jessemostipak/hotel-boo
 
 ---
 
-## ❓ Research Questions
+##  Research Questions
 -
 
 ---
 
-## 🛠️ Methodology
+##  Methodology
 - Wrote SQL queries to aggregate cancellations by channel, lead time, requests, deposits, and country.
 - Calculated cancellation percentages and compared across customer segments.
 - Built Tableau dashboards to visualize trends.
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 
 ---
 
-## 📈 Visualizations
-- [Interactive Tableau Dashboard](https://public.tableau.com/)  
+##  Visualizations
+- 
 
 
 ---
 
-## ✅ Conclusions & Recommendations
-- Encourage direct bookings through loyalty programs.
-- Require deposits for long-lead reservations (>90 days).
-- Promote upselling of special requests as a proxy for guest commitment.
-- Adjust cancellation policies for international OTA bookings.
+##  Conclusions & Recommendations
+
 
 ---
