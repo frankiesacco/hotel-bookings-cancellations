@@ -70,8 +70,9 @@ Preview:
 ---
 
 ##  Conclusions & Recommendations
-- Require deposits for long-lead reservations (>90 days).
-- Promote upselling of special requests as a proxy for guest commitment.
 - Heavier promotion of discounts and loyalty programs for domestic guests.
+- Require deposits for reservations with longer lead times (> 90 days)
+- Launch special ad campaigns to increase bookings made during the shoulder season (November-March) and improve revenue year-round
+- Offer more competitive pricing with City Hotel, especially during peak season, to decrease disproportionately high cancellation rate
 
 ---
